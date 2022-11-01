@@ -1,0 +1,230 @@
+,Countries,UN_Region,GPD_per_capita,Year
+0,Monaco,Europe,190513.0,2019.0
+1,Liechtenstein,Europe,180367.0,2018.0
+2,Luxembourg,Europe,140694.0,2022.0
+3,Singapore,Asia,131580.0,2022.0
+4,Ireland,Europe,124596.0,2022.0
+5,Qatar,Asia,112789.0,2022.0
+6,Macau,Asia,85612.0,2022.0
+7,Switzerland,Europe,84658.0,2022.0
+8,Isle of Man,Europe,84600.0,2014.0
+9,Bermuda,Americas,80830.0,2020.0
+10,United Arab Emirates,Asia,78255.0,2022.0
+11,Norway,Europe,77808.0,2022.0
+12,United States,Americas,76027.0,2022.0
+13,Brunei,Asia,74953.0,2022.0
+14,Cayman Islands,Americas,71594.0,2020.0
+15,Falkland Islands,Americas,70800.0,2015.0
+16,Hong Kong,Asia,70448.0,2022.0
+17,San Marino,Europe,70139.0,2022.0
+18,Denmark,Europe,69273.0,2022.0
+19,Taiwan,Asia,68730.0,2022.0
+20,Netherlands,Europe,68572.0,2022.0
+21,Austria,Europe,64751.0,2022.0
+22,Iceland,Europe,64621.0,2022.0
+23,Andorra,Europe,63600.0,2022.0
+24,Germany,Europe,63271.0,2022.0
+25,Sweden,Europe,62926.0,2022.0
+26,Australia,Oceania,61941.0,2022.0
+27,Gibraltar,Europe,61700.0,2014.0
+28,Belgium,Europe,61587.0,2022.0
+29,Finland,Europe,58010.0,2022.0
+30,Canada,Americas,57812.0,2022.0
+31,Bahrain,Asia,57424.0,2022.0
+32,Jersey,Europe,56600.0,2016.0
+33,France,Europe,56036.0,2022.0
+34,Saudi Arabia,Asia,55368.0,2022.0
+35,United Kingdom,Europe,55301.0,2022.0
+36,Malta,Europe,54647.0,2022.0
+37,European Union,Europe,53201.0,2022.0
+38,South Korea,Asia,53051.0,2022.0
+39,Guernsey,Europe,52500.0,2014.0
+40,Kuwait,Asia,50919.0,2022.0
+41,New Zealand,Oceania,50411.0,2022.0
+42,Italy,Europe,50216.0,2022.0
+43,Israel,Asia,50204.0,2022.0
+44,Japan,Asia,48814.0,2022.0
+45,Slovenia,Europe,48534.0,2022.0
+46,Cyprus,Europe,48443.0,2022.0
+47,Czech Republic,Europe,47527.0,2022.0
+48,Lithuania,Europe,46479.0,2022.0
+49,Spain,Europe,46413.0,2022.0
+50,Saint Pierre and Miquelon,Americas,46200.0,2006.0
+51,Estonia,Europe,44778.0,2022.0
+52,Puerto Rico,Americas,42759.0,2022.0
+53,Greenland,Americas,41800.0,2015.0
+54,Poland,Europe,41685.0,2022.0
+55,Hungary,Europe,40944.0,2022.0
+56,Portugal,Europe,40805.0,2022.0
+57,Bahamas,Americas,40274.0,2022.0
+58,Faroe Islands,Europe,40000.0,2014.0
+59,Aruba,Americas,39508.0,2022.0
+60,Slovakia,Europe,38620.0,2022.0
+61,Guyana,Americas,38258.0,2022.0
+62,Turkey,Asia,37488.0,2022.0
+63,Latvia,Europe,37330.0,2022.0
+64,U.S. Virgin Islands,Americas,37000.0,2016.0
+65,Romania,Europe,36622.0,2022.0
+66,Croatia,Europe,36201.0,2022.0
+67,Panama,Americas,36085.0,2022.0
+68,Sint Maarten,Americas,35977.0,2018.0
+69,Guam,Oceania,35600.0,2016.0
+70,Greece,Europe,35596.0,2022.0
+71,Oman,Asia,35286.0,2022.0
+72,Seychelles,Africa,35272.0,2022.0
+73,British Virgin Islands,Americas,34200.0,2017.0
+74,Montserrat,Americas,34000.0,2011.0
+75,Malaysia,Asia,32901.0,2022.0
+76,New Caledonia,Oceania,31100.0,2015.0
+77,Kazakhstan,Asia,30502.0,2022.0
+78,Russia,Europe,30013.0,2022.0
+79,Trinidad and Tobago,Americas,29884.0,2022.0
+80,Maldives,Asia,29133.0,2022.0
+81,Bulgaria,Europe,28593.0,2022.0
+82,Chile,Americas,28526.0,2022.0
+83,Saint Kitts and Nevis,Americas,27608.0,2022.0
+84,Uruguay,Americas,26663.0,2022.0
+85,Argentina,Americas,25822.0,2022.0
+86,Mauritius,Africa,25043.0,2022.0
+87,Montenegro,Europe,24878.0,2022.0
+88,Northern Mariana Islands,Oceania,24500.0,2016.0
+89,Costa Rica,Americas,24490.0,2022.0
+90,Dominican Republic,Americas,23983.0,2022.0
+91,Serbia,Europe,23904.0,2022.0
+92,Turks and Caicos Islan,Americas,22286.0,2020.0
+93,Mexico,Americas,22216.0,2022.0
+94,Antigua and Barbuda,Americas,21890.0,2022.0
+95,Belarus,Europe,21686.0,2022.0
+96,Curaçao,Americas,21423.0,2020.0
+97,China,Asia,21364.0,2022.0
+98,Thailand,Asia,21057.0,2022.0
+99,North Macedonia,Europe,19726.0,2022.0
+100,Saint Martin,Americas,19300.0,2005.0
+101,Botswana,Africa,19287.0,2022.0
+102,Equatorial Guinea,Africa,19036.0,2022.0
+103,Turkmenistan,Asia,18857.0,2022.0
+104,Georgia,Asia,18594.0,2022.0
+105,Libya,Africa,18345.0,2022.0
+106,Iran,Asia,18332.0,2022.0
+107,Grenada,Americas,18293.0,2022.0
+108,Colombia,Americas,18225.0,2022.0
+109,Gabon,Africa,17848.0,2022.0
+110,Bosnia and Herzegovina,Europe,17471.0,2022.0
+111,Barbados,Americas,17408.0,2022.0
+112,Albania,Europe,17383.0,2022.0
+113,Suriname,Americas,17300.0,2022.0
+114,Brazil,Americas,17208.0,2022.0
+115,Azerbaijan,Asia,17153.0,2022.0
+116,French Polynesia,Oceania,17000.0,2015.0
+117,Moldova,Europe,16719.0,2022.0
+118,Cook Islands,Oceania,16700.0,2016.0
+119,Saint Lucia,Americas,16509.0,2022.0
+120,Armenia,Asia,15818.0,2022.0
+121,Saint Vincent and the Grenadines,Americas,15505.0,2022.0
+122,Sri Lanka,Asia,15387.0,2022.0
+123,South Africa,Africa,15361.0,2022.0
+124,Peru,Americas,15035.0,2022.0
+125,Egypt,Africa,14928.0,2022.0
+126,Indonesia,Asia,14535.0,2022.0
+127,Dominica,Americas,14491.0,2022.0
+128,Paraguay,Americas,14430.0,2022.0
+129,Ukraine,Europe,14325.0,2021.0
+130,Kosovo,Europe,13964.0,2022.0
+131,Palau,Oceania,13652.0,2022.0
+132,Fiji,Oceania,13598.0,2022.0
+133,Mongolia,Asia,13350.0,2022.0
+134,Algeria,Africa,16509.0,2022.0
+135,Bhutan,Asia,12967.0,2022.0
+136,Vietnam,Asia,12881.0,2022.0
+137,Ecuador,Americas,12664.0,2022.0
+138,Tunisia,Africa,12300.0,2022.0
+139,Cuba,Americas,12300.0,2016.0
+140,Lebanon,Asia,12035.0,2020.0
+141,Anguilla,Americas,12200.0,2008.0
+142,Iraq,Asia,12141.0,2022.0
+143,Jordan,Asia,11861.0,2022.0
+144,Jamaica,Americas,11802.0,2022.0
+145,American Samoa,Oceania,11200.0,2016.0
+146,Nauru,Oceania,10750.0,2022.0
+147,El Salvador,Americas,10581.0,2022.0
+148,Namibia,Africa,10448.0,2022.0
+149,Eswatini,Africa,10411.0,2022.0
+150,Philippines,Asia,10393.0,2022.0
+151,Guatemala,Americas,9911.0,2022.0
+152,Bolivia,Americas,9856.0,2022.0
+153,Uzbekistan,Asia,9243.0,2022.0
+154,Laos,Asia,9184.0,2022.0
+155,Morocco,Africa,9041.0,2022.0
+156,India,Asia,8358.0,2022.0
+157,"Saint Helena, Ascension and Tristan da Cun",Africa,7800.0,2010.0
+158,Cape Verde,Africa,7740.0,2022.0
+159,Angola,Africa,7360.0,2022.0
+160,Belize,Americas,7147.0,2022.0
+161,Nicaragua,Americas,7071.0,2022.0
+162,Mauritania,Africa,6920.0,2022.0
+163,Tonga,Oceania,6783.0,2022.0
+164,Ghana,Africa,6754.0,2022.0
+165,Honduras,Americas,6740.0,2022.0
+166,Djibouti,Africa,6667.0,2022.0
+167,Bangladesh,Asia,6633.0,2022.0
+168,Pakistan,Asia,6470.0,2022.0
+169,Syria,Asia,6374.0,2010.0
+170,Ivory Coast,Africa,6345.0,2022.0
+171,Palestine,Asia,6243.0,2022.0
+172,Kenya,Africa,6061.0,2022.0
+173,Tokelau,Oceania,6004.0,2017.0
+174,Venezuela,Americas,5949.0,2022.0
+175,Samoa,Oceania,5935.0,2022.0
+176,Nigeria,Africa,5853.0,2022.0
+177,Niue,Oceania,5800.0,2003.0
+178,Tuvalu,Oceania,5798.0,2022.0
+179,Kyrgyzstan,Asia,5562.0,2022.0
+180,Cambodia,Asia,5493.0,2022.0
+181,Myanmar,Asia,4776.0,2022.0
+182,São Tomé and Príncipe,Africa,4681.0,2022.0
+183,Tajikistan,Asia,4630.0,2022.0
+184,Nepal,Asia,4578.0,2022.0
+185,Congo,Africa,4578.0,2022.0
+186,Sudan,Africa,4442.0,2022.0
+187,Cameroon,Africa,4398.0,2022.0
+188,Papua New Guinea,Oceania,4299.0,2022.0
+189,Marshall Islands,Oceania,4192.0,2022.0
+190,Benin,Africa,4137.0,2022.0
+191,Senegal,Africa,4093.0,2022.0
+192,Wallis and Futuna,Oceania,3800.0,2004.0
+193,Zambia,Africa,3776.0,2022.0
+194,Micronesia,Oceania,3650.0,2022.0
+195,Ethiopia,Africa,3407.0,2022.0
+196,Tanzania,Africa,3358.0,2022.0
+197,Comoros,Africa,3355.0,2022.0
+198,East Timor,Asia,3339.0,2022.0
+199,Haiti,Americas,3189.0,2022.0
+200,Lesotho,Africa,3034.0,2022.0
+201,Guinea,Africa,3029.0,2022.0
+202,Uganda,Africa,2961.0,2022.0
+203,Vanuatu,Oceania,2851.0,2022.0
+204,Rwanda,Africa,2808.0,2022.0
+205,Guinea-Bissau,Africa,2784.0,2022.0
+206,Burkina Faso,Africa,2663.0,2022.0
+207,Gamb,Africa,2646.0,2022.0
+208,Togo,Africa,2599.0,2022.0
+209,Mali,Africa,2575.0,2022.0
+210,Zimbabwe,Africa,2523.0,2022.0
+211,Afghanistan,Asia,2456.0,2020.0
+212,Solomon Islands,Oceania,2385.0,2022.0
+213,Kiribati,Oceania,2148.0,2022.0
+214,Eritrea,Africa,2101.0,2022.0
+215,Yemen,Asia,2078.0,2022.0
+216,Sierra Leone,Africa,1958.0,2022.0
+217,Liberia,Africa,1779.0,2022.0
+218,Madagascar,Africa,1778.0,2022.0
+219,Chad,Africa,1705.0,2022.0
+220,North Korea,Asia,1700.0,2015.0
+221,Malawi,Africa,1603.0,2022.0
+222,Mozambique,Africa,1439.0,2022.0
+223,Niger,Africa,1435.0,2022.0
+224,Somalia,Africa,1322.0,2022.0
+225,DR Congo,Africa,1316.0,2022.0
+226,Central African Republic,Africa,1102.0,2022.0
+227,South Sudan,Africa,928.0,2022.0
+228,Burundi,Africa,856.0,2022.0
